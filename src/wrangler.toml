@@ -1,0 +1,6 @@
+name = "primepicks-api"
+compatibility_date = "2024-07-09"
+
+[vars]
+SHOPIFY_STORE = "primepicks.org.in"
+SHOPIFY_TOKEN = "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"
